@@ -19,7 +19,7 @@ declare type SearchParamProps = {
     email: string;
     password: string;
   };
-  
+
   declare type LoginUser = {
     email: string;
     password: string;
