@@ -19,6 +19,7 @@
     "@sentry/nextjs": "^8.17.0",
     "autoprefixer": "^10.4.19",
     "chart.js": "^4.4.3",
+    "chartjs-2": "^0.0.1-security",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
     "dwolla-v2": "^3.4.0",
